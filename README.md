@@ -73,6 +73,10 @@ The platform combines direct trading, AI-based demand prediction, digital paymen
 
 8.AI integration: AI predicts demand and suggests suitable delivery routes.
 
+# flow chart:
+<img width="1536" height="1024" alt="Farm2Market Workflow Infographic" src="https://github.com/user-attachments/assets/ab3e9bc6-27b8-42ff-8fa8-c0e8026620b0" />
+
+
 # AI-Based Features
 
 1.Demand forecasting to predict future product requirements.
